@@ -15,4 +15,18 @@ Use this file for:
 - Bot and AI Agent Avatar
 - Logo
 
+## 8am Image URL
+
+Use this URL for the 8am embedded messaging deployment:
+
+```text
+https://cdn.jsdelivr.net/gh/Jaydubb101/Prontoassets@main/chat/eightam-chat-logo.png
+```
+
+Use it for:
+
+- Service Rep Avatar
+- Bot and AI Agent Avatar
+- Logo
+
 Then save and republish the embedded deployment.
